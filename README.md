@@ -1,6 +1,6 @@
 # Drumkit
 
-> A page to load and remove books
+> A page to play the drums with your keyboard
 
 ## Built With
 
